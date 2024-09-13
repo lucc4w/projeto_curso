@@ -1,2 +1,1 @@
-# projeto_curso
- 
+Projeto para o curso de ADS.
